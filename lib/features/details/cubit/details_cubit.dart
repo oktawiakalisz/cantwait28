@@ -1,6 +1,6 @@
-import 'package:bloc/bloc.dart';
 import 'package:cantwait28/models/item_model.dart';
 import 'package:cantwait28/repositories/items_repository.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 
 part 'details_state.dart';
 
